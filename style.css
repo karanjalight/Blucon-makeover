@@ -1,0 +1,141 @@
+body{}
+
+.img-header {
+  background-image: url(img/handshake.jpg);
+  background-size: cover;
+  position: static;
+  width: 412px;
+  height: 412px;
+  left: 434px;
+  top: 0px;
+  border-radius: 205px;
+}
+
+.about-image{
+    background-image: url(img/image.png);
+    background-size: cover;
+    position: static;
+    width: 413x;
+    height: 295px;
+    left: 0px;
+    top: 0px;
+
+}
+
+  .missions {
+    padding: 12px;
+    background-color: #199BF1;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding: 70px;
+
+  }
+
+  .missions p{
+    font: poppins;
+    font-weight: 400,regular;
+    font-style: normal;
+    size: 16px;
+    line-height: 24px;
+  }
+
+  .card{
+    display: flex;
+    
+  }
+
+  .partner1 {
+    background-image: url(img/goblue.png);
+    background-size: cover;
+    position: static;
+    width: 175px;
+    height: 175px;
+    left: 217px;
+    top: 3006px;
+    
+
+  }
+  .partner2 {
+    background-image: url(img/swahilipot.png);
+    background-size: cover;
+    position: static;
+    width: 265px;
+    height: 68px;
+    left: 416px;
+    top: 3060px;
+    margin-top: 40px;
+    
+
+  }
+  .partner3 {
+    background-image: url(img/jumuiyayakauntizapwani.png);
+    background-size: cover;
+    position: static;
+    width: 225px;
+    height: 68px;
+    left: 705px;
+    top: 3060px;
+    margin-top: 40px;
+    
+
+  }
+
+  footer {
+    background-color: #014A7D;
+    color: white;
+  }
+
+  .footer-text {
+    font-weight: 600 ,semi bold;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .logo-footer {
+    background-image: url(img/Picture1.png);
+    background-size: cover;
+    position: static;
+    width: 110.06px;
+    height: 116.05px;
+    left: 705px;
+    
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+  
+  h1.hidden{
+    display: none;
+  }
+
+
+  }
+}
+
+@media (min-width:961px)  { 
+  
+    
+  }
+
+}
